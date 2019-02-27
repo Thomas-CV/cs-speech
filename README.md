@@ -10,3 +10,12 @@ This sample contains an application for speech to text and text to speech using 
     - if needed verify that the ServiceEndpoint in appsettings.json is the same as obtained from Microsoft's web.
 3. Build and run the sample application.
     - be sure to build for C# 7.1 or higher (Project - Properties - Build - Advanced - Language version - C# 7.1) which supports async Main method.
+
+## Usage
+
+1. Build and Start.
+2. Try saying the following sentences:
+    - My name is "YOUR_NAME"
+    - I would like coffee please
+    - I realy need the vacation?
+    - Bye, bye.
